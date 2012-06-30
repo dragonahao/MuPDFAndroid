@@ -1,0 +1,11 @@
+bin
+out
+gen
+project*
+.idea
+.classpath
+.project
+*.iml
+obj
+*.DS_Store
+*.svn*
